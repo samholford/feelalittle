@@ -1,14 +1,7 @@
-.icon-block {
-  padding: 0 15px;
-}
-.icon-block .material-icons {
-	font-size: inherit;
-}
-
-.valign-wrapper.splash {
-	height: 99%;
+.section {
+	padding-top: 3rem;
 }
 
 img.splash {
-	width: 900px;
+	max-width: 900px;
 }
